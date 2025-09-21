@@ -69,4 +69,35 @@ for record, details in patient.items():
     print("Vaccines:")
     for vac, months in details["Vaccines"].items():
         print(f"  {vac}: {months}")
+# Verification of Patient Records
+### All Patient Records ###
+
+Record 1:
+Name: John Smith
+Vaccines:
+  HepB: [0, 1, 6]
+  RV: [0, 1, 6]
+  DTaP: [0, 1, 6]
+  Hib: [0, 1, 6]
+  PCV13: [0, 1, 6]
+  IPV: [0, 1, 6]
+  IIV4: [0, 1, 6]
+  MMR: [0, 1, 6]
+  VAR: [0, 1, 6]
+  HepA: [0, 1, 6]
+
+Record 2:
+Name: Olivia James
+Vaccines:
+  HepB: [0, 1, 6]
+  RV: [0, 1, 6]
+  DTaP: [0, 1, 6]
+  Hib: [0, 1, 6]
+  PCV13: [0, 1, 6]
+  IPV: [0, 1, 6]
+  IIV4: [0, 1, 6]
+  MMR: [0, 1, 6]
+  VAR: [0, 1, 6]
+  HepA: [0, 1, 6]
 ```
+
