@@ -100,4 +100,6 @@ Vaccines:
   VAR: [0, 1, 6]
   HepA: [0, 1, 6]
 ```
+## Video Explanation
 
+Watch my Lab 4 demonstration here: [Lab 4 Video](https://drive.google.com/file/d/1TbUsJ1YozZydqSPL1qEOzXP1sRTZ2nPC/view?usp=sharing)
